@@ -37,7 +37,7 @@
 - Add informative errors for dist_subset
 - Setup CI
 
-### demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pages-build-deployment](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml) [![test-coverage](https://github.com/Ulthran/DEMIC/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/test-coverage.yaml)
+### demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pages-build-deployment](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC)
 - Start: 03/25/22
 
 ### metadata checker 
