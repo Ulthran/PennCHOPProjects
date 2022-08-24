@@ -8,6 +8,8 @@
 ### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=latest)](http://sunbeam.readthedocs.io/en/latest/?badge=latest) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
 - Start: 03/24/22
 - v3: 06/27/22
+- TODO:
+  - lighten tests (-t all/core options with core as default), kraken2 and biopython out of main env to test env, add tests for currently untested rules
 
 <details>
   <summary>Sunbeam Extensions</summary>
@@ -15,6 +17,8 @@
   ### Extensions
   - sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
     - Start: 06/02/22
+    - TODO:
+      - Implement checkm features?? (requires HPC levels of RAM to run and test)
   - sbx_demic [![CI](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml)
     - Start: 03/25/22
 </details>
