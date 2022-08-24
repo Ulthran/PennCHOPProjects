@@ -12,7 +12,6 @@
 <details>
   <summary>Sunbeam Extensions</summary>
   
-  ### Extensions
   - sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
     - Start: 06/02/22
     - TODO:
