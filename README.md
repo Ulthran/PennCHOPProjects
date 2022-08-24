@@ -4,9 +4,21 @@
 - Start: 02/01/22
 - v0: 03/17/22
 - v1: 08/24/22
+
 ### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=latest)](http://sunbeam.readthedocs.io/en/latest/?badge=latest) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
 - Start: 03/24/22
 - v3: 06/27/22
+
+<details>
+  <summary>Sunbeam Extensions</summary>
+  
+  ### Extensions
+  - sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
+    - Start: 06/02/22
+  - sbx_demic [![CI](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml)
+    - Start: 03/25/22
+</details>
+
 ### GenusFinder [![CI](https://github.com/Ulthran/GenusFinder/actions/workflows/python-package.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-package.yml) [![Upload Python Package](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml)
 - Start: 08/16/22
 
@@ -21,9 +33,6 @@
 - Add informative errors for dist_subset
 - Setup CI
 
-### sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
-- Start: 06/02/22
-
 ### demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pages-build-deployment](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml) [![test-coverage](https://github.com/Ulthran/DEMIC/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/test-coverage.yaml)
 - Start: 03/25/22
 
@@ -35,9 +44,6 @@
 - Start: 02/25/22
 - Finish: 02/28/22
 - More detailed logging and CI pipeline
-
-### sbx_demic [![CI](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml)
-- Start: 02/19/22
 
 ## Unstarted
 
