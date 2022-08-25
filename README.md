@@ -33,8 +33,8 @@
 ### usedist
 - Start: 07/05/22
 - Finish: 08/11/22
-- Add informative errors for dist_subset
-- Setup CI
+- [Add informative errors for dist_subset](https://github.com/kylebittinger/usedist/pull/13)
+- [Setup CI](https://github.com/kylebittinger/usedist/pull/14)
 
 ### demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pages-build-deployment](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC)
 - Start: 03/25/22
@@ -46,7 +46,7 @@
 ### dnabc [![CI](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml)
 - Start: 02/25/22
 - Finish: 02/28/22
-- More detailed logging and CI pipeline
+- [More detailed logging and CI pipeline](https://github.com/PennChopMicrobiomeProgram/dnabc/pull/16)
 
 ## Unstarted
 
