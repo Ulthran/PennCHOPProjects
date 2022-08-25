@@ -42,6 +42,7 @@
 ### metadata checker 
 - Start: 03/15/22
 - Deployed: 
+- [Metadatacli wrapper site](https://github.com/PennChopMicrobiomeProgram/CHOP_metadata_checker/pull/13)
 
 ### dnabc [![CI](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml)
 - Start: 02/25/22
