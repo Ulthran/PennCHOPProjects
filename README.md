@@ -25,9 +25,7 @@
 - v0: 03/17/22
 - v1: 08/24/22
 
-### TransLasso [![R-CMD-check](https://github.com/Ulthran/TransLasso/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransLasso/actions)
-[![Codecov test coverage](https://codecov.io/gh/Ulthran/TransLasso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransLasso?branch=main)
-[![pkgdown](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml)
+### TransLasso [![R-CMD-check](https://github.com/Ulthran/TransLasso/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransLasso/actions) [![Codecov test coverage](https://codecov.io/gh/Ulthran/TransLasso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransLasso?branch=main) [![pkgdown](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml)
 - Start: 09/29/22
 
 ## Minor Projects
