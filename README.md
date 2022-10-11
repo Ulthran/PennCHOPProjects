@@ -57,7 +57,7 @@
 
 ## Unstarted
 
-### Hongzhe’s R package
+### More of Hongzhe’s R package
 
 ### BGC (biosynthetic gene cluster) detection through ML
 
