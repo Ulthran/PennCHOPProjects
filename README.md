@@ -6,8 +6,8 @@
 ### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=stable)](http://sunbeam.readthedocs.io/en/latest/?badge=stable) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
 - Start: 03/24/22
 - v3: 06/27/22
-- TODO:
-  - lighten tests (-t all/core options with core as default), kraken2 and biopython out of main env to test env, add tests for currently untested rules
+- v3.0.1: 08/11/22
+- v3.1.0: 10/14/22
 
 <details>
   <summary>Sunbeam Extensions</summary>
@@ -27,6 +27,9 @@
 
 <details>
   <summary>Hongzhe's Packages</summary>
+  
+  - demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/DEMIC) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC)
+    - Start: 03/25/22
 
   - TransLasso [![R-CMD-check](https://github.com/Ulthran/TransLasso/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransLasso/actions) [![Codecov test coverage](https://codecov.io/gh/Ulthran/TransLasso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransLasso?branch=main) [![pkgdown](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/TransLasso)
     - Start: 09/29/22
@@ -52,12 +55,10 @@
 - [Add informative errors for dist_subset](https://github.com/kylebittinger/usedist/pull/13)
 - [Setup CI](https://github.com/kylebittinger/usedist/pull/14)
 
-### demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pages-build-deployment](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pages/pages-build-deployment) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC)
-- Start: 03/25/22
-
 ### metadata checker 
 - Start: 03/15/22
-- Deployed: 
+- Deployed to ctbus.pythonanywhere.com: 06/29/22
+- Deployed to CHOP server: 
 - [Metadatacli wrapper site](https://github.com/PennChopMicrobiomeProgram/CHOP_metadata_checker/pull/13)
 
 ### dnabc [![CI](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml)
@@ -66,8 +67,6 @@
 - [More detailed logging and CI pipeline](https://github.com/PennChopMicrobiomeProgram/dnabc/pull/16)
 
 ## Unstarted
-
-### More of Hongzhe’s R packages
 
 ### BGC (biosynthetic gene cluster) detection through ML
 
