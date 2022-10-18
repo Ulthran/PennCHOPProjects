@@ -3,7 +3,7 @@
 ### GenusFinder [![CI](https://github.com/Ulthran/GenusFinder/actions/workflows/python-package.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-package.yml) [![Upload Python Package](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml)
 - Start: 08/16/22
 
-### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=latest)](http://sunbeam.readthedocs.io/en/latest/?badge=latest) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
+### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=stable)](http://sunbeam.readthedocs.io/en/latest/?badge=stable) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
 - Start: 03/24/22
 - v3: 06/27/22
 - TODO:
@@ -20,7 +20,7 @@
     - Start: 03/25/22
 </details>
 
-### Shotgun Unifrac [![CI](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Ulthran/ShotgunUnifrac/branch/master/graph/badge.svg?token=N9KSWRS4XG)](https://codecov.io/gh/Ulthran/ShotgunUnifrac) [![Documentation Status](https://readthedocs.org/projects/shotgununifrac/badge/?version=latest)](https://shotgununifrac.readthedocs.io/en/latest/?badge=latest)
+### Shotgun Unifrac [![CI](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Ulthran/ShotgunUnifrac/branch/master/graph/badge.svg?token=N9KSWRS4XG)](https://codecov.io/gh/Ulthran/ShotgunUnifrac) [![Documentation Status](https://readthedocs.org/projects/shotgununifrac/badge/?version=stable)](https://shotgununifrac.readthedocs.io/en/latest/?badge=stable)
 - Start: 02/01/22
 - v0: 03/17/22
 - v1: 08/24/22
