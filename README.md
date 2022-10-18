@@ -25,11 +25,14 @@
 - v0: 03/17/22
 - v1: 08/24/22
 
-### TransLasso [![R-CMD-check](https://github.com/Ulthran/TransLasso/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransLasso/actions) [![Codecov test coverage](https://codecov.io/gh/Ulthran/TransLasso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransLasso?branch=main) [![pkgdown](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml)
+### TransLasso [![R-CMD-check](https://github.com/Ulthran/TransLasso/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransLasso/actions) [![Codecov test coverage](https://codecov.io/gh/Ulthran/TransLasso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransLasso?branch=main) [![pkgdown](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/TransLasso)
 - Start: 09/29/22
 
 ### TransCLIME [![R-CMD-check](https://github.com/Ulthran/TransCLIME/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransCLIME/actions) [![Codecov test coverage](https://codecov.io/gh/Ulthran/TransCLIME/branch/master/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransCLIME?branch=master)
 - Start: 10/07/22
+
+### SpectralPermutationRecovery [![R-CMD-check](https://github.com/Ulthran/Spectral-Permutation-Recovery/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/Spectral-Permutation-Recovery/actions/workflows/R-CMD-check.yaml) [![Codecov test coverage](https://codecov.io/gh/Ulthran/Spectral-Permutation-Recovery/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/Spectral-Permutation-Recovery?branch=main) [![pkgdown](https://github.com/Ulthran/Spectral-Permutation-Recovery/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/Spectral-Permutation-Recovery/)
+- Start: 10/17/22
 
 ## Minor Projects
 
@@ -57,7 +60,7 @@
 
 ## Unstarted
 
-### More of Hongzhe’s R package
+### More of Hongzhe’s R packages
 
 ### BGC (biosynthetic gene cluster) detection through ML
 
