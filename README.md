@@ -28,7 +28,7 @@
 <details>
   <summary>Hongzhe's Packages</summary>
   
-  - demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/DEMIC) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC)
+  - demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/DEMIC)
     - Start: 03/25/22
 
   - TransLasso [![R-CMD-check](https://github.com/Ulthran/TransLasso/workflows/R-CMD-check/badge.svg)](https://github.com/Ulthran/TransLasso/actions) [![Codecov test coverage](https://codecov.io/gh/Ulthran/TransLasso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Ulthran/TransLasso?branch=main) [![pkgdown](https://github.com/Ulthran/TransLasso/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/TransLasso)
