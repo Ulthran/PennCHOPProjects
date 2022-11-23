@@ -58,8 +58,8 @@
 ### metadata checker 
 - Start: 03/15/22
 - Deployed to ctbus.pythonanywhere.com: 06/29/22
-- Deployed to CHOP server: 
-- [Metadatacli wrapper site](https://github.com/PennChopMicrobiomeProgram/CHOP_metadata_checker/pull/13)
+- Deployed to CHOP server: 11/10/22
+- Deployed to AWS (serverlessly!): 11/18/22
 
 ### dnabc [![CI](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml)
 - Start: 02/25/22
