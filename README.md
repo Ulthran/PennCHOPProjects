@@ -8,6 +8,7 @@
 - v3: 06/27/22
 - v3.0.1: 08/11/22
 - v3.1.0: 10/14/22
+- v3.1.1: 10/19/22
 
 <details>
   <summary>Sunbeam Extensions</summary>
