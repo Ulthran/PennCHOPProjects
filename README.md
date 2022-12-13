@@ -7,8 +7,9 @@
 <details>
   <summary>Sunbeam Extensions</summary>
   
-  - sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
+  - sbx_classify [![Tests](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/tests.yml/badge.svg)](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/tests.yml) [![Super-Linter](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/linter.yml/badge.svg)](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/linter.yml) [![DOI:10.1038/s41592-018-0182-0](https://badgen.net/badge/Published%20in/Nat%20Methods/blue)](https://doi.org/10.1038/s41592-018-0182-0)
   - sbx_demic [![CI](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml)
+  - sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
 </details>
 
 ### Shotgun Unifrac [![CI](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Ulthran/ShotgunUnifrac/branch/master/graph/badge.svg?token=N9KSWRS4XG)](https://codecov.io/gh/Ulthran/ShotgunUnifrac) [![Documentation Status](https://readthedocs.org/projects/shotgununifrac/badge/?version=stable)](https://shotgununifrac.readthedocs.io/en/latest/?badge=stable)
