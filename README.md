@@ -9,6 +9,8 @@
   
   - sbx_classify [![Tests](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/tests.yml/badge.svg)](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/tests.yml) [![Super-Linter](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/linter.yml/badge.svg)](https://github.com/sunbeam-labs/sbx_kraken/actions/workflows/linter.yml) [![DOI:10.1038/s41592-018-0182-0](https://badgen.net/badge/Published%20in/Nat%20Methods/blue)](https://doi.org/10.1038/s41592-018-0182-0)
   - sbx_demic [![CI](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/sbx_demic/actions/workflows/main.yml)
+  - sbx_template [![Tests](https://github.com/sunbeam-labs/sbx_template/actions/workflows/tests.yml/badge.svg)](https://github.com/sunbeam-labs/sbx_template/actions/workflows/tests.yml) [![Super-Linter](https://github.com/sunbeam-labs/sbx_template/actions/workflows/linters.yml/badge.svg)](https://github.com/sunbeam-labs/sbx_template/actions/workflows/linters.yml)
+  - sbx_test_action
   - sbx_WGS [![CI](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/sbx_WGS/actions/workflows/main.yml)
 </details>
 
