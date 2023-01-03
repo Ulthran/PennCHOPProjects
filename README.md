@@ -17,6 +17,8 @@
 
 ### Shotgun Unifrac [![CI](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml/badge.svg)](https://github.com/Ulthran/ShotgunUnifrac/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Ulthran/ShotgunUnifrac/branch/master/graph/badge.svg?token=N9KSWRS4XG)](https://codecov.io/gh/Ulthran/ShotgunUnifrac) [![Documentation Status](https://readthedocs.org/projects/shotgununifrac/badge/?version=stable)](https://shotgununifrac.readthedocs.io/en/latest/?badge=stable)
 
+### Virus Hunting Pipeline
+
 ## R packages
 
 ### demic (R) [![R-CMD-check](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Ulthran/DEMIC/actions/workflows/R-CMD-check.yaml) [![codecov](https://codecov.io/gh/Ulthran/DEMIC/branch/master/graph/badge.svg?token=A8grKm4Q1g)](https://codecov.io/gh/Ulthran/DEMIC) [![pkgdown](https://github.com/Ulthran/DEMIC/actions/workflows/pkgdown.yaml/badge.svg)](https://ulthran.github.io/DEMIC)
