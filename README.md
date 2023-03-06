@@ -2,7 +2,7 @@
 
 ## Pipelines
 
-### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=stable)](http://sunbeam.readthedocs.io/en/latest/?badge=stable) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
+### Sunbeam [![CircleCI](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev.svg?style=shield)](https://circleci.com/gh/sunbeam-labs/sunbeam/tree/dev) [![Super-Linter](https://github.com/sunbeam-labs/sunbeam/actions/workflows/linter.yml/badge.svg)](https://github.com/sunbeam-labs/sunbeam/actions/workflows/linter.yml) [![Documentation Status](https://readthedocs.org/projects/sunbeam/badge/?version=stable)](http://sunbeam.readthedocs.io/en/latest/?badge=stable) [![DOI:10.1186/s40168-019-0658-x](https://img.shields.io/badge/Published%20in-Microbiome-1abc9c.svg)](https://doi.org/10.1186/s40168-019-0658-x)
 
 <details>
   <summary>Sunbeam Extensions</summary>
