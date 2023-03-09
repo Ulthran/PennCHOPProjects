@@ -41,7 +41,7 @@
 
 ### unassigner
 
-### GenusFinder [![CI](https://github.com/Ulthran/GenusFinder/actions/workflows/python-package.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-package.yml) [![Upload Python Package](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml)
+### GenusFinder [![Tests](https://github.com/Ulthran/GenusFinder/actions/workflows/tests.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/tests.yml) [![Super-Linter](https://github.com/Ulthran/GenusFinder/actions/workflows/linter.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/linter.yml) [![codecov](https://codecov.io/gh/Ulthran/GenusFinder/branch/main/graph/badge.svg?token=LYBCXLGV6N)](https://codecov.io/gh/Ulthran/GenusFinder) [![Upload Python Package](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Ulthran/GenusFinder/actions/workflows/python-publish.yml)
 
 ### dnabc [![CI](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml/badge.svg)](https://github.com/PennChopMicrobiomeProgram/dnabc/actions/workflows/main.yaml)
 
